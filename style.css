@@ -1,0 +1,58 @@
+body{
+   background-color: blueviolet
+   
+}
+.Image{
+    border-radius:90%  
+    
+}
+
+h1,h2{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+.division{
+    position: absolute;
+    top: 20px;
+    left: 160px;
+    padding: 20px;
+}
+
+.changeFont{
+    font-size: 15px;
+    padding-left: 20px;
+
+}
+
+.list{
+    color: white;
+}
+ul , li ,a {
+    text-decoration: none;
+    color: white;
+    list-style-type: none;
+}
+ul>li{
+    color: white;
+}
+ul{
+    text-align: end;
+    position: absolute;
+    top: 30px;
+    right: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    color: white;
+    
+}
+ol,li{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ol{
+    list-style-type: disc;
+}
